@@ -1,3 +1,6 @@
+USE huellitas;
+-- o   Insertar 3 maestros zapateros, 2 ayudantes y 2 cortadores en base de datos.
+
 INSERT INTO cargo_empleado VALUES
 (1, "Maestro Zapatero"),
 (2, "Ayudante"),
